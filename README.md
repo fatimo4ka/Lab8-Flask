@@ -10,3 +10,6 @@ export FLASK_APP=work
 3. Введите команду:
 flask run
 4.Зайдите в браузер по ссылке localhost:5000
+
+Скриншоты запуска и работы приложения в колабе предственном ниже:
+https://colab.research.google.com/drive/1--CDi0AOF1P1pKaazyWyo8NX83Wl7Nlr?usp=sharing
